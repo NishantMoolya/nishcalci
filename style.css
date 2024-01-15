@@ -108,8 +108,12 @@ body{
     .btn_group{
         gap: 1rem;
     }
+    .btn_group > button{
+        height: 6rem;
+        width: 6rem;
+    }
     #display{
-        margin-top: 22rem;
+        margin-top: 15rem;
         margin-bottom: 3rem;
     }
     .frame > h1{
